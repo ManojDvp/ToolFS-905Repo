@@ -9,7 +9,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Wellcome to GIT World");
         Arithmatic ar=new Arithmatic();
-        int result=ar.sum(10, 20);
+        long result=ar.sum(10, 20);
         System.out.println("result :"+ result);
     }
 }
