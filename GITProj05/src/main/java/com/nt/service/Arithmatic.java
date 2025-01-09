@@ -13,4 +13,7 @@ public class Arithmatic {
 	public long sub(long x,long y) {
 		return x+y;
 	}
+	public long mul(long x,long y) {
+		return x*y;
+	}
 }
